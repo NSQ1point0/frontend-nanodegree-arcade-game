@@ -6,7 +6,7 @@ avoid bugs and reach water to win. if a bug catches you the game resets.
 use arrow keys to move your player.
 
 how to run:
-simple load dowmload and run index.html file in your browser.
+simple dowmload this repo and run index.html file in your browser or go to this [link](https://numbskullq1.github.io/frontend-nanodegree-arcade-game/).
 game starts as the page loads.
 
 Files explanation:
